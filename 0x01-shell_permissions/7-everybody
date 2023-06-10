@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=xwr,ga=x hello
+chmod u+xrw go=x hello
