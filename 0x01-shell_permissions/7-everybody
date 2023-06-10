@@ -1,4 +1,2 @@
 #!/bin/bash
 chmod uga=x hello
-chmod ug=r hello
-chmod u=w
